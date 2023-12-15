@@ -1,0 +1,3 @@
+Earnings before taxes: 6000
+Profit: 4200
+Ratio: 0.21
